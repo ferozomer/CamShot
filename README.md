@@ -31,7 +31,7 @@ apt-get -y install php openssh git wget
 ## Installing (Kali Linux/Termux):
 
 ```
-git clone https://github.com/ferozomer/camshot
+git clone https://github.com/ferozomer/CamShot.git
 cd CamShot
 bash camshot.sh
 ```
